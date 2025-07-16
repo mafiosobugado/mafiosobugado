@@ -59,6 +59,30 @@ Me chamo Marcos Antonio, sou apaixonado por tecnologia e desenvolvimento de soft
 />
 <img 
     align="left" 
+    alt="PHP"
+    title="PHP" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C#"
+    title="C#" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Ionic"
+    title="Ionic" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" 
+/>
+<img 
+    align="left" 
     alt="React"
     title="React" 
     width="30px" 
@@ -110,5 +134,4 @@ Me chamo Marcos Antonio, sou apaixonado por tecnologia e desenvolvimento de soft
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafiosobugado&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
