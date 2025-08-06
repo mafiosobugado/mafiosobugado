@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Marcos Antonio, sou apaixonado por tecnologia e desenvolvimento de software. Estou constantemente aprendendo e aprimorando minhas habilidades para criar soluções inovadoras e eficientes. Compartilho meu conhecimento e projetos através do meu perfil no GitHub.
+Me chamo Marcos Antonio, sou apaixonado por tecnologia e desenvolvimento de software. Estou constantemente aprendendo e aprimorando minhas habilidades para criar soluções inovadoras e eficientes. Compartilho meu conhecimento e projetos através do meu perfil no GitHub e do Linkedin.
 
 <p align="left">
     <a href="https://github.com/mafiosobugado?tab=repositories&sort=stargazers">
