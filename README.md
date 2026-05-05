@@ -151,9 +151,19 @@ Me chamo Marcos Antonio, sou apaixonado por tecnologia e desenvolvimento de soft
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=mafiosobugado&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafiosobugado&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=mafiosobugado&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafiosobugado&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 </p>
-
-
